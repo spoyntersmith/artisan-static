@@ -21,6 +21,6 @@
             <textarea name="message" id="message" required></textarea>
         </div>
 
-        <button type="submit" value="Send">
+        <button type="submit">Send</button>
     </form>
 @endsection
